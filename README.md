@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Feltrim, I'm 18yo and I’m a begginer at programming
+- 👋 Hi, I’m @Feltrim, I have 18yo and I'm from Brazil and
+- I'm a begginer at programming
 - 🌱 I’m currently learning Python, JS and MySQL
 - 📫 How to reach me:
 - Twitter: https://twitter.com/_feltrim_
