@@ -2,7 +2,7 @@
 - I'm a begginer at programming
 - 🌱 I’m currently learning Python, JS and MySQL
 - 📫 How to reach me:
-- Twitter: https://twitter.com/_feltrim_
+- email: vitorfeltrim13542@gmail.com
 
 <!---
 Feltrim/Feltrim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
