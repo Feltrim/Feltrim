@@ -1,8 +1,10 @@
-Hello, my name is Vitor Feltrim
+Hello, my name is Vitor Feltrim, i have 18 years old
+
 I'm a brazillian developer!
+
 I actually work with:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
 
 My contacts:
 
