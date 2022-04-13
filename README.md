@@ -1,6 +1,8 @@
 print("Hello, World!")
 
-My name is Vitor Feltrim, I have 18 years old and I'm a brazillian developer!
+My name is Vitor Feltrim, but you can call me only by Feltrim
+
+I have 18 years old and I'm a brazillian developer!
 
 I actually work with:
 
