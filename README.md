@@ -9,7 +9,7 @@ I actually work with:
 I'm currently learling:
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" widht="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" widht="50" height="50"/>;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" widht="50" height="50"/>
           
 My contacts:
