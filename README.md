@@ -1,8 +1,8 @@
 ># print("Hello, World!")
 
-## Hey! My name is Vitor Feltrim, but you can call me only by Feltrim
+## Hey! My name is Vitor Feltrim, but you can call me only by Feltrim :shipit:
 
-## I have 18 years old and I'm a brazillian developer!
+## I have 18 years old and I'm a brazillian developer! :brazil:
 
 ### I actually work with:
 
