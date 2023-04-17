@@ -4,7 +4,8 @@
 <h3 align="left">Hey! My name is Vitor Feltrim, but you can call me only by Feltrim</h3>
 <h4 align="left">I'm 19 years old and a brazillian developer / data analyst!</h4>
 
-- 📫 How to reach me **vitorfeltrim13542@gmail.com**
+- 📫 How to reach me:
+**vitorfeltrim13542@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
