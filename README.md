@@ -42,9 +42,11 @@
   <a href="https://www.ibm.com/spss" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" alt="spss" width="40" height="40"/></a>
 </p>
 
+<!--
 ## More about my profile:
 
 <div>
 <a href="https://github.com/Feltrim">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feltrim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feltrim&layout=compact&langs_count=7&theme=dracula"/>
+-->
